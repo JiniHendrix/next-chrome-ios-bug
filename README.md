@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+Replace the ip address in the href in line 46 of the index page with your own local network ip address
+
 ```bash
 npm run dev
 # or
